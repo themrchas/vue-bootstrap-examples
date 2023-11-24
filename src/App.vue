@@ -6,6 +6,8 @@
 
   <FormGroup />
 
+  <FormExample />
+
 </div>
   
 </template>
@@ -13,11 +15,12 @@
 <script>
 import Checkbox from './components/Checkbox.vue';
 import FormGroup from './components/FormGroup.vue'
+import FormExample from './components/FormExample.vue'
 
 export default {
   name: 'App',
   components: {
-    Checkbox, FormGroup
+    Checkbox, FormGroup, FormExample
   }
 }
 </script>
