@@ -1,4 +1,4 @@
-# vue-bootstrap-examples
+# vue-bootstrap-examples 
 
 ## Project setup
 ```
@@ -19,7 +19,7 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-### Examples of using bootstrap-vue form template
+### Examples of using bootstrap-vue form template - this not not pure bootstrap
 - b-form
 - b-form-group
 - b-form-input 
@@ -32,4 +32,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Using the components b-form-invalid-feedback and b-form-valid-feedback
 
 
-#### https://sortoutcode.com/blog/how-to-show-invalid-feedback-with-form-group-component-in-bootstrap-vuejs1/  How to show invalid feedback with form group component in Bootstrap VueJS
+#### How to show invalid feedback with form group component in Bootstrap VueJS https://sortoutcode.com/blog/how-to-show-invalid-feedback-with-form-group-component-in-bootstrap-vuejs1/  
+
+#### BootstrapVue https://bootstrap-vue.org/
